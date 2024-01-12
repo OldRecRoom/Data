@@ -1,3 +1,3 @@
-Hi Welcome to OldRecRoom2016.
-Settings and avatar saving do not work
+Welcome to OldRecRoom2016.
+Settings saving do not work
 (BETA)
